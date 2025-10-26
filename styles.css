@@ -47,6 +47,9 @@ p{
 code{
     font-family: monospace;
     font-size: 1rem;
+    
+}.poem {
+    text-align: center;
 }
 
 section > section{
